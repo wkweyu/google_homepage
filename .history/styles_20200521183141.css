@@ -1,0 +1,36 @@
+img.header-img {
+    border-radius: 205px;
+    background: #cdd0d1;
+    /*box-shadow: 28px 28px 100px #757777, -28px -28px 100px #ffffff;*/
+    height: 30px;
+    width: 30px;
+}
+
+nav#menubar {
+    background-color: white;
+    float: right;
+    font-size: 20px;
+    text-transform: capitalize;
+    padding: 10px;
+}
+
+a.header-text {
+    text-decoration: none;
+    color: black;
+    padding-bottom: 25px;
+}
+
+#google {
+    position: absolute;
+    width: 100%;
+    width: 100%;
+    margin-top: 100px;
+    text-align: center;
+    padding: 20px;
+}
+
+#google-search {}
+
+.header-text {}
+
+body {}
